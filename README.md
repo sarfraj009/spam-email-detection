@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Advanced Spam Email Detection System
 
 A complete Streamlit + Machine Learning project for detecting Spam vs Not Spam emails.
@@ -42,3 +43,6 @@ Upload the project files to GitHub and deploy `app.py` using Streamlit Community
 
 ## Note
 This is an educational ML project. Classification can make mistakes and should not be treated as a complete email security system.
+=======
+# spam-email-detection
+>>>>>>> 24e9ebff1c8ef87d8cd17018340ad67a420c6829
